@@ -1,5 +1,5 @@
 ---
-title: About me
+title:  About me
 description: My name is Caroline and each unique piece of jewelry you find here is carefully crafted by hand for YOU! No two seashells are ever the same, that is the magic of it. You are guaranteed to have a one of a kind treasure with each purchase. I believe people are like seashells in many ways. Each person unique, created to add life, joy, creativity, and beauty to the world, just as seashells color the coastline.
 date: 2018-05-01
 tags:

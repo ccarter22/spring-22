@@ -1,6 +1,9 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
+title: Policies
+description: Due to the unique nature of our products there are no refunds or returns. These are real seashells and each shell must be handled with care as they can be fragile. 
+
+Damages and issues
+Please inspect your order upon reception and contact us immediately if the item is defective, damaged or if you receive the wrong item, so that we can evaluate the issue and make it right.
 date: 2018-08-24
 tags:
   - second tag

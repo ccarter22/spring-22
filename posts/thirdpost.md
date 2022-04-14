@@ -1,5 +1,5 @@
 ---
-title: Policies
+title: Policies 
 description: Due to the unique nature of our products there are no refunds or returns. These are real seashells and each shell must be handled with care as they can be fragile. 
 
 Damages and issues

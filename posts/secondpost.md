@@ -1,6 +1,11 @@
 ---
-title: This is my second post.
-description: This is a post on My Blog about leveraging agile frameworks.
+title: custom necklace orders
+description: 
+Step One: Choose your shell and add it to your cart. 
+Step Two: Proceed to cart and fill out the box "Add a note to your order".
+Step Three: Type out your customization, feel free to copy & paste!
+Chain Color: Dainty Gold, Dainty Silver, or Mermaid Chain.
+Bead Color: Ocean Blue, Aquamarine, Sea Glass, Peach Ray, Puffer Pink, Pearl White, Drift Wood or no bead.
 date: 2018-07-04
 tags:
   - number 2
@@ -8,7 +13,7 @@ layout: layouts/post.njk
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-## Section Header
+## Create your own necklace
 
 <a href="{{ '/posts/firstpost/' | url }}">First post</a>
 <a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
